@@ -1,3 +1,5 @@
+//LOCAL VARIABLE
+
 public class variables {
     public static void main(String[] args) {
         // x is a local variable
@@ -18,3 +20,5 @@ public class variables {
 
     }
 }
+
+
